@@ -16,3 +16,7 @@ dependencies {
     implementation 'com.github.dora4:dview-template:1.0'
 }
 ```
+
+1.修改settings.gradle的rootProject.name
+2.修改项目根目录的build.gradle的namespace
+3.修改README.md文件的库名，并删除此步骤提示
