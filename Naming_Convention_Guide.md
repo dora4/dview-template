@@ -183,8 +183,8 @@ dora.widget
 | 24   | 下拉布局面板     | DoraDropdownLayout     | B        | 已有 |
 | 25   | 字母导航控件     | DoraLetterView         | A        | 已有 |
 | 26   | 站内信红点控件   | DoraBadgeView          | A        | 已有 |
-| 27   | 折线图           | DoraLineChart          | B        | 已有 |
-| 28   | 条形图           | DoraBarChart           | B        | 已有 |
+| 27   | 折线图           | DoraLineChart          | A        | 已有 |
+| 28   | 条形图           | DoraBarChart           | A        | 已有 |
 | 29   | 双指缩放控件     | DoraPinchZoomLayout    | B        | 已有 |
 | 30   | 环形变速进度条   | DoraCircularProgress   | B        | 已有 |
 | 31   | 图标文字控件     | DoraIconTextView       | C        | 已有 |
@@ -193,10 +193,10 @@ dora.widget
 | 34   | 闪烁炫光控件     | DoraFlashView          | B        | 已有 |
 | 35   | 音乐唱片旋转控件 | DoraRotateView         | C        | 已有 |
 | 36   | 音乐均衡器控件 | DoraEqualizerView | C        | 已有 |
-| 37   | 未知控件       | DoraTemplate      | C        | 未有 |
-| 38   | 未知控件       | DoraTemplate      | C        | 未有 |
-| 39   | 未知控件       | DoraTemplate      | C        | 未有 |
-| 40   | 未知控件       | DoraTemplate      | C        | 未有 |
+| 37   | 饼图       | DoraPieChart      | A        | 未有 |
+| 38   | 蜘蛛网图       | DoraSpiderChart      | A        | 未有 |
+| 39   | 刮刮卡控件       | DoraScratchView      | C        | 未有 |
+| 40   | K线图       | DoraKLineView      | B        | 未有 |
 | 41   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 42   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 43   | 未知控件       | DoraTemplate      | C        | 未有 |
