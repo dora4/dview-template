@@ -87,6 +87,16 @@ override fun onRestoreInstanceState(state: Parcelable) {
 ### 测量
 
 - 控件必须重写 `onMeasure()`，并使用 `resolveSize()`
+  
+```kotlin
+override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
+    val desiredWidth = 100 // 默认宽度
+    val desiredHeight = 100 // 默认高度
+    val width = resolveSize(desiredWidth, widthMeasureSpec)
+    val height = resolveSize(desiredHeight, heightMeasureSpec)
+    setMeasuredDimension(width, height)
+}
+```
 
 ### 事件
 
