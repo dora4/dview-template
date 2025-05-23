@@ -210,7 +210,7 @@ dora.widget
 | 51   | 搜索历史记录控件       | DoraSearchHistoryView      | B        | 未有 |
 | 52   | 骨架屏加载控件       | DoraSkeletonView      | S        | 未有 |
 | 53   | 验证码发送按钮       | DoraVerifyCodeButton      | A        | 未有 |
-| 54   | 未知控件       | DoraTemplate      | C        | 未有 |
+| 54   | 横幅指示器控件       | DoraIndicatorView      | B        | 未有 |
 | 55   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 56   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 57   | 未知控件       | DoraTemplate      | C        | 未有 |
