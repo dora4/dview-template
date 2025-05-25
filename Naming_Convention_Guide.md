@@ -216,7 +216,7 @@ dora.widget
 | 57   | 数字连击控件       | DoraNumberHitView      | B        | 未有 |
 | 58   | 表格控件       | DoraTableView      | A        | 未有 |
 | 59   | 网格控件       | DoraGridView      | B        | 未有 |
-| 60   | 未知控件       | DoraTemplate      | C        | 未有 |
+| 60   | Drawable工具       | DoraDrawables      | A        | 未有 |
 | 61   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 62   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 63   | 未知控件       | DoraTemplate      | C        | 未有 |
