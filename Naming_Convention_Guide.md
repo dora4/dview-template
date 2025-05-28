@@ -218,7 +218,7 @@ dora.widget
 | 59   | 网格控件       | DoraGridView      | B        | 未有 |
 | 60   | Drawable工具       | DoraDrawables      | A        | 未有 |
 | 61   | 锁屏图案       | DoraPatternView      | B        | 未有 |
-| 62   | 未知控件       | DoraTemplate      | C        | 未有 |
+| 62   | 视差动画引导页       | ParallaxAnimationView      | B        | 未有 |
 | 63   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 64   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 65   | 未知控件       | DoraTemplate      | C        | 未有 |
