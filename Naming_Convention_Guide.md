@@ -223,7 +223,7 @@ dora.widget
 | 64   | 输入面板（表情、礼物等）       | DoraInputPanel      | C        | 未有 |
 | 65   | 中奖播报控件       | DoraFlipperView      | B        | 未有 |
 | 66   | 启动页控件（用于倒计时展示广告）       | DoraSplashView      | S        | 未有 |
-| 67   | 未知控件       | DoraTemplate      | C        | 未有 |
+| 67   | 列表工具       | DoraListHelper     | A        | 未有 |
 | 68   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 69   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 70   | 未知控件       | DoraTemplate      | C        | 未有 |
