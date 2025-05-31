@@ -220,9 +220,9 @@ dora.widget
 | 61   | 锁屏图案       | DoraPatternView      | B        | 未有 |
 | 62   | 视差动画引导页       | ParallaxAnimationView      | B        | 未有 |
 | 63   | 瀑布流图片加载       | DoraWaterFallLayout      | B        | 未有 |
-| 64   | 未知控件       | DoraTemplate      | C        | 未有 |
-| 65   | 未知控件       | DoraTemplate      | C        | 未有 |
-| 66   | 未知控件       | DoraTemplate      | C        | 未有 |
+| 64   | 输入面板（表情、礼物等）       | DoraInputPanel      | C        | 未有 |
+| 65   | 中奖播报控件       | DoraFlipperView      | B        | 未有 |
+| 66   | 启动页控件（用于倒计时展示广告）       | DoraSplashView      | S        | 未有 |
 | 67   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 68   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 69   | 未知控件       | DoraTemplate      | C        | 未有 |
