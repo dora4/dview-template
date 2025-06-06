@@ -199,7 +199,7 @@ dora.widget
 | 40   | K线图       | DoraKLineView      | B        | 未有 |
 | 41   | 翻书控件       | DoraBookPager      | A        | 未有 |
 | 42   | 幸运大转盘       | DoraLuckyWheel      | B        | 未有 |
-| 43   | 悬浮球菜单       | DoraFloatingMenu      | B        | 未有 |
+| 43   | 悬浮球菜单       | DoraFloatingMenu      | B        | 已有 |
 | 44   | 吸附拉杆控件       | DoraStickySlider      | C        | 未有 |
 | 45   | 跑马灯控件       | DoraMarqueeView      | A        | 未有 |
 | 46   | 横幅控件       | DoraBannerView      | A        | 未有 |
@@ -241,7 +241,7 @@ dora.widget
 | 82   | 雷达扫描加载控件 | DoraRadarView            | C        | 未有 |
 | 83   | 颜色拾取器控件   | DoraColorPickerView      | S        | 未有 |
 | 84   | 时间选择轮控件   | DoraTimeWheelPicker      | A        | 未有 |
-| 85   | 优惠券卡片控件         | DoraCouponCardView             | C        | 未有 |
+| 85   | 优惠券卡片控件   | DoraCouponCardView        | C        | 未有 |
 | 86   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 87   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 88   | 未知控件         | DoraTemplate             | C        | 未有 |
