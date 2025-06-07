@@ -161,7 +161,7 @@ dora.widget
 | 2    | 菜单面板         | DoraMenuPanel          | S        | 已有 |
 | 3    | 居中吐司         | DoraToast              | A        | 已有 |
 | 4    | 滑块按钮         | DoraToggleButton       | B        | 已有 |
-| 5    | 头像裁剪         | DoraAvatarCrop         | B        | 已有 |
+| 5    | 头像裁剪         | DoraAvatar         | B        | 已有 |
 | 6    | 底部弹窗         | DoraBottomDialog       | A        | 已有 |
 | 7    | 清空文本框       | DoraClearEditText      | B        | 已有 |
 | 8    | 动画进度条       | DoraProgressView       | C        | 已有 |
@@ -181,12 +181,12 @@ dora.widget
 | 22   | 侧滑删除菜单     | DoraSwipeMenu          | A        | 已有 |
 | 23   | 购物车加减控件   | DoraAddSubView         | B        | 已有 |
 | 24   | 下拉布局面板     | DoraDropdownLayout     | B        | 已有 |
-| 25   | 字母导航控件     | DoraLetterView         | A        | 已有 |
+| 25   | 字母导航控件     | DoraSideBar         | A        | 已有 |
 | 26   | 站内信红点控件   | DoraBadgeView          | A        | 已有 |
 | 27   | 折线图           | DoraLineChart          | A        | 已有 |
 | 28   | 条形图           | DoraBarChart           | A        | 已有 |
 | 29   | 双指缩放控件     | DoraPinchZoomLayout    | B        | 已有 |
-| 30   | 环形变速进度条   | DoraCircularProgress   | B        | 已有 |
+| 30   | 环形变速进度条   | DoraCircularProgressBar   | B        | 已有 |
 | 31   | 图标文字控件     | DoraIconTextView       | C        | 已有 |
 | 32   | 创建动画基础库   | DoraAnimator           | C        | 已有 |
 | 33   | 列表条目拖动排序 | DoraDragSortView       | B        | 已有 |
@@ -215,7 +215,7 @@ dora.widget
 | 56   | 红包控件       | DoraRedEnvelopeView      | B        | 未有 |
 | 57   | 数字连击控件       | DoraNumberHitView      | B        | 未有 |
 | 58   | 表格控件       | DoraTableView      | A        | 未有 |
-| 59   | 网格控件       | DoraGridView      | B        | 未有 |
+| 59   | 网格控件       | DoraGridView      | B        | 已有 |
 | 60   | Drawable工具       | DoraDrawables      | A        | 未有 |
 | 61   | 锁屏图案       | DoraPatternView      | B        | 未有 |
 | 62   | 视差动画引导页       | ParallaxAnimationView      | B        | 未有 |
