@@ -1,4 +1,5 @@
 dview-template
+
 ![Release](https://jitpack.io/v/dora4/dview-template.svg)
 --------------------------------
 
@@ -17,6 +18,6 @@ dependencies {
 }
 ```
 
-1.修改settings.gradle的rootProject.name
-2.修改lib模块的build.gradle的namespace
-3.修改README.md文件的库名，并删除此步骤提示
+1. 修改settings.gradle的rootProject.name
+2. 修改lib模块的build.gradle的namespace
+3. 修改README.md文件的库名，并删除此步骤提示
