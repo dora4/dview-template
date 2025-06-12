@@ -204,7 +204,7 @@ dora.widget
 | 45   | 跑马灯控件       | DoraMarqueeView      | A        | 未有 |
 | 46   | 横幅控件       | DoraBannerView      | A        | 未有 |
 | 47   | 省市区级联选择控件       | DoraAddressPicker      | C        | 未有 |
-| 48   | 底部导航条控件       | DoraBottomNavigationView      | S        | 未有 |
+| 48   | 底部导航条控件       | DoraBottomBar      | S        | 未有 |
 | 49   | 支付密码输入跳框控件       | DoraDigitView      | C        | 未有 |
 | 50   | 步骤进度条控件	       | DoraStepProgressView      | B        | 未有 |
 | 51   | 搜索历史记录控件       | DoraSearchHistoryView      | B        | 未有 |
@@ -218,7 +218,7 @@ dora.widget
 | 59   | 网格控件       | DoraGridView      | B        | 已有 |
 | 60   | Drawable工具       | DoraDrawables      | A        | 未有 |
 | 61   | 锁屏图案       | DoraPatternView      | B        | 未有 |
-| 62   | 视差动画引导页       | ParallaxAnimationView      | B        | 未有 |
+| 62   | 视差动画引导页       | DoraParallaxLayout      | B        | 未有 |
 | 63   | 瀑布流图片加载       | DoraWaterFallLayout      | B        | 未有 |
 | 64   | 输入面板（表情、礼物等）       | DoraInputPanel      | C        | 未有 |
 | 65   | 中奖播报控件       | DoraFlipperView      | B        | 未有 |
