@@ -225,7 +225,7 @@ dora.widget
 | 66   | 启动页控件（用于倒计时展示广告）       | DoraSplashView      | S        | 未有 |
 | 67   | 列表工具       | DoraListHelper     | A        | 未有 |
 | 68   | 价格档位控件       | DoraPriceLadderView      | C        | 未有 |
-| 69   | 未知控件       | DoraTemplate      | C        | 未有 |
+| 69   | 乱序数字键盘控件       | DoraSecurityPayView      | C        | 未有 |
 | 70   | 未知控件       | DoraTemplate      | C        | 未有 |
 | 71   | 日期选择器       | DoraDatePicker           | A        | 未有 |
 | 72   | 实时模糊遮罩     | DoraBlurView             | A        | 未有 |
