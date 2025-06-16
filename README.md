@@ -3,6 +3,8 @@ dview-template
 ![Release](https://jitpack.io/v/dora4/dview-template.svg)
 --------------------------------
 
+![dorachat_A_custom_Android_UI_component_with_animated_indicators_82238705-6f21-45e8-9e7c-38aa9845b05c](https://github.com/user-attachments/assets/7dfc5b97-d750-4426-ac11-c8cfa8d318f3)
+
 #### Gradle依赖配置
 
 ```groovy
