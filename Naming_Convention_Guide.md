@@ -226,7 +226,7 @@ dora.widget
 | 67   | 列表工具       | DoraListHelper     | A        | 未有 |
 | 68   | 价格档位控件       | DoraPriceLadderView      | C        | 未有 |
 | 69   | 乱序数字键盘控件       | DoraSecurityPayView      | C        | 未有 |
-| 70   | 未知控件       | DoraTemplate      | C        | 未有 |
+| 70   | 选择和展示图片控件       | DoraImageDisplayView      | C        | 未有 |
 | 71   | 日期选择器       | DoraDatePicker           | A        | 未有 |
 | 72   | 实时模糊遮罩     | DoraBlurView             | A        | 未有 |
 | 73   | 长截图滚动控件   | DoraLongScreenshotLayout | C        | 未有 |
