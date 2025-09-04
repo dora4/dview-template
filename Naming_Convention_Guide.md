@@ -242,7 +242,7 @@ dora.widget
 | 83   | 颜色拾取器控件   | DoraColorPickerView      | S        | 未有 |
 | 84   | 时间选择轮控件   | DoraTimeWheelPicker      | A        | 未有 |
 | 85   | 优惠券卡片控件   | DoraCouponCardView        | C        | 未有 |
-| 86   | 未知控件         | DoraTemplate             | C        | 未有 |
+| 86   | 内容折叠展开控件         | DoraExpandableLayout             | C        | 未有 |
 | 87   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 88   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 89   | 未知控件         | DoraTemplate             | C        | 未有 |
