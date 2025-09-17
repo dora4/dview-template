@@ -130,7 +130,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
  * @author Dora
  * @since 1.0
  */
-class DoraRoundedButton : View {
+class DoraRoundedButton : View
 ```
 
 ### README 文档
