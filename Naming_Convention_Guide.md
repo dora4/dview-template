@@ -36,8 +36,8 @@
 
   ```xml l
   <declare-styleable name="DoraRoundedButton">
-      <attr name="dview_rb_cornerRadius" format="dimension"/>
-      <attr name="dview_rb_borderColor" format="color"/>
+      <attr name="dview_rb_cornerRadius" format="dimension|reference"/>
+      <attr name="dview_rb_borderColor" format="color|reference"/>
   </declare-styleable>
   ```
 
