@@ -237,7 +237,7 @@ dora.widget
 | 80   | 全屏倒计时控件   | DoraFullscreenCountdown  | B        | 未有 |
 | 81   | 时间轴控件       | DoraTimelineView         | B        | 未有 |
 | 82   | 雷达扫描加载控件 | DoraRadarView            | C        | 未有 |
-| 83   | 颜色拾取器控件   | DoraColorPickerView      | S        | 未有 |
+| 83   | 颜色拾取器控件   | DoraColorPickerView      | A        | 未有 |
 | 84   | 时间选择轮控件   | DoraTimeWheelPicker      | A        | 未有 |
 | 85   | 优惠券卡片控件   | DoraCouponView        | B        | 已有 |
 | 86   | 内容折叠展开控件         | DoraExpandableLayout             | C        | 未有 |
