@@ -31,12 +31,13 @@
 
 ### ✅ 命名统一使用 `dview_` 前缀
 
+并且后面还要跟控件标识缩写。
 - 示例：
 
   ```xml l
   <declare-styleable name="DoraRoundedButton">
-      <attr name="dview_cornerRadius" format="dimension"/>
-      <attr name="dview_borderColor" format="color"/>
+      <attr name="dview_rb_cornerRadius" format="dimension"/>
+      <attr name="dview_rb_borderColor" format="color"/>
   </declare-styleable>
   ```
 
