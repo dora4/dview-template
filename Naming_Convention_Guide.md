@@ -127,9 +127,6 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 ```kotlin
 /**
  * Dora自定义按钮控件，支持圆角与边框。
- *
- * @author Dora
- * @since 1.0
  */
 class DoraRoundedButton : View
 ```
