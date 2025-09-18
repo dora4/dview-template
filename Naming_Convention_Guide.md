@@ -263,4 +263,4 @@ dora.widget
 | 对外控件类    | ✅ 必须加         | DoraToast          |
 | 抽象基类      | ❌ 推荐使用 Base  | BaseDialog         |
 | 工具类/内部类 | ❌ 可省略 Dora    | RippleHelper       |
-| 属性/资源名   | ✅ 使用 dview_    | dview_cornerRadius |
+| 属性/资源名   | ✅ 使用 dview_    | dview_rb_cornerRadius |
