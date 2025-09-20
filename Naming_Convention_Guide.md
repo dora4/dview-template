@@ -56,7 +56,11 @@
 constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int, defStyleRes: Int)
 ```
 
-## 四、状态保存规范
+## 四、API方法参数规范
+
+- 若参数有一定范围，必须加相关注解，如`@ColorInt`。
+
+## 五、状态保存规范
 
 - 若控件有交互状态，必须实现 `onSaveInstanceState()` 与 `onRestoreInstanceState()`：
 
@@ -78,7 +82,7 @@ override fun onRestoreInstanceState(state: Parcelable) {
 }
 ```
 
-## 五、绘制、测量与事件处理
+## 六、绘制、测量与事件处理
 
 ### 绘制
 
@@ -104,7 +108,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 - 所有交互事件在 `onTouchEvent()` 中统一处理
 - 复杂事件建议使用 `GestureDetector`
 
-## 六、资源命名规范
+## 七、资源命名规范
 
 ### 属性：
 
@@ -118,7 +122,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 
 - `dview_btn_confirm`、`dview_icon_left`
 
-## 七、代码注释与文档
+## 八、代码注释与文档
 
 ### KDoc 注释
 
@@ -139,7 +143,7 @@ class DoraRoundedButton : View
   - 自定义属性说明表
   - 截图或GIF示例
 
-## 八、包结构建议
+## 九、包结构建议
 
 ```
 dora.widget
@@ -151,7 +155,7 @@ dora.widget
 ├── extension/         // Kotlin扩展函数
 ```
 
-## 九、控件名录
+## 十、控件名录
 
 | 序号 | 中文名           | 英文名                 | 主流等级 | 备注 |
 | ---- | ---------------- | ---------------------- | -------- | ---- |
