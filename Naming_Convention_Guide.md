@@ -56,7 +56,7 @@
 constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int, defStyleRes: Int)
 ```
 
-## 四、API方法参数规范
+## 四、API方法规范
 
 - 若参数有一定范围，必须加相关注解，如`@ColorInt`、`@ColorRes`、`@DrawableRes`。
 
