@@ -246,7 +246,7 @@ dora.widget
 | 85   | 优惠券卡片控件   | DoraCouponView        | B        | 已有 |
 | 86   | 内容折叠展开控件         | DoraExpandableLayout             | B        | 未有 |
 | 87   | 角落标记控件         | DoraMarkView             | A        | 未有 |
-| 88   | 未知控件         | DoraTemplate             | C        | 未有 |
+| 88   | 常用线性图标         | DoraIcons             | A        | 未有 |
 | 89   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 90   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 91   | 未知控件         | DoraTemplate             | C        | 未有 |
