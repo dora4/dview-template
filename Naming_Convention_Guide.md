@@ -248,8 +248,8 @@ dora.widget
 | 87   | 角落标记控件         | DoraMarkView             | A        | 未有 |
 | 88   | 常用线性图标         | DoraIcons             | A        | 已有 |
 | 89   | 检测项控件         | DoraCheckItemView             | C        | 未有 |
-| 90   | 翻扑克牌控件         | DoraPokerView             | C        | 未有 |
-| 91   | 未知控件         | DoraTemplate             | C        | 未有 |
+| 90   | 翻扑克牌控件         | DoraPokerView             | B+        | 已有 |
+| 91   | 弹出菜单         | DoraPopupWindow             | A-        | 已有 |
 | 92   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 93   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 94   | 未知控件         | DoraTemplate             | C        | 未有 |
