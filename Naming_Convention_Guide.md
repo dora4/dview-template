@@ -245,7 +245,7 @@ dora.widget
 | 84   | 时间选择轮控件   | DoraTimeWheelPicker      | B        | 未有 |
 | 85   | 优惠券卡片控件   | DoraCouponView        | B        | 已有 |
 | 86   | 内容折叠展开控件         | DoraExpandableLayout             | B        | 未有 |
-| 87   | 角落标记控件         | DoraMarkView             | A        | 未有 |
+| 87   | 角落标记控件         | DoraMarkView             | A        | 已有 |
 | 88   | 常用线性图标         | DoraIcons             | A        | 已有 |
 | 89   | 检测项控件         | DoraCheckItemView             | C        | 未有 |
 | 90   | 翻扑克牌控件         | DoraPokerView             | C        | 已有 |
