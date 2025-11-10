@@ -165,7 +165,7 @@ dora.widget
 | 4    | 滑块按钮         | DoraToggleButton       | B        | 已有 |
 | 5    | 头像裁剪         | DoraAvatar         | B        | 已有 |
 | 6    | 底部弹窗         | DoraBottomDialog       | A        | 已有 |
-| 7    | 清空文本框       | DoraClearEditText      | B        | 已有 |
+| 7    | 点击清空文本框       | DoraClearEditText      | B        | 已有 |
 | 8    | 动画进度条       | DoraProgressView       | C        | 已有 |
 | 9    | 提示弹窗         | DoraAlertDialog        | S        | 已有 |
 | 10   | 加载对话框       | DoraLoadingDialog      | S        | 已有 |
