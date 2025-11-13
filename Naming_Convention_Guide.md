@@ -238,7 +238,7 @@ dora.widget
 | 77   | 手写签名控件     | DoraSignaturePad         | C        | 未有 |
 | 78   | 全屏引导页控件   | DoraGuideView            | A        | 未有 |
 | 79   | 手势放大镜控件   | DoraMagnifierView        | C        | 未有 |
-| 80   | 全屏倒计时控件   | DoraFullscreenCountdown  | C        | 未有 |
+| 80   | 自动跳框文本框   | DoraNextEditText  | A        | 已有 |
 | 81   | 时间轴控件       | DoraTimelineView         | C        | 未有 |
 | 82   | 雷达扫描加载控件 | DoraRadarView            | C        | 未有 |
 | 83   | 颜色拾取器控件   | DoraColorPickerView      | A        | 未有 |
@@ -250,7 +250,7 @@ dora.widget
 | 89   | 检测项控件         | DoraCheckItemView             | C        | 未有 |
 | 90   | 翻扑克牌控件         | DoraPokerView             | C        | 已有 |
 | 91   | 弹出菜单         | DoraPopupWindow             | B        | 已有 |
-| 92   | 自动跳框文本框         | DoraNextEditText             | A        | 已有 |
+| 92   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 93   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 94   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 95   | 未知控件         | DoraTemplate             | C        | 未有 |
