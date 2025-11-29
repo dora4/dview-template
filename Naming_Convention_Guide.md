@@ -205,9 +205,9 @@ dora.widget
 | 44   | 吸附拉杆控件       | DoraStickySlider      | C        | 未有 |
 | 45   | 跑马灯控件       | DoraMarqueeView      | A        | 未有 |
 | 46   | 横幅控件       | DoraBannerView      | A        | 未有 |
-| 47   | 省市区级联选择控件       | DoraAddressPicker      | C        | 未有 |
+| 47   | 省市区级联选择控件       | DoraCityPicker      | C        | 未有 |
 | 48   | 底部导航条控件       | DoraBottomBar      | S        | 已有 |
-| 49   | 支付密码输入跳框控件       | DoraDigitView      | C        | 未有 |
+| 49   | 支付密码输入跳框控件       | DoraNextEditText      | C        | 未有 |
 | 50   | 步骤进度条控件	       | DoraStepProgressView      | B        | 未有 |
 | 51   | 搜索历史记录控件       | DoraSearchHistoryView      | B        | 未有 |
 | 52   | 骨架屏加载控件       | DoraSkeletonView      | S        | 已有 |
