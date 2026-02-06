@@ -105,7 +105,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 
 ### 事件
 
-- 所有交互事件在 `onTouchEvent()` 中统一处理
+- 单指操作使用`e.getAction()`
 - 复杂事件建议使用 `GestureDetector`
 
 ## 七、资源命名规范
@@ -114,7 +114,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 
 - 命名统一前缀 `dview_`
 
-### 颜色、drawable、dimens：
+### 颜色、drawable、dimension：
 
 - `dview_primary_color`、`dview_corner_radius`、`dview_button_bg`
 
