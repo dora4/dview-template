@@ -50,7 +50,7 @@
     : View(context, attrs, defStyleAttr)
 ```
 
-如涉及样式，建议增加第四个参数的构造函数：
+如涉及主题样式，建议增加第四个参数的构造函数：
 
 ```kotlin
 constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int, defStyleRes: Int)
