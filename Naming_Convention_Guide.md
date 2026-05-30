@@ -234,7 +234,7 @@ dora.widget
 | 73   | 长截图滚动控件   | DoraLongScreenshotLayout | C        | 未有 |
 | 74   | 语音声波波纹按钮     | DoraVoiceRippleButton    | C        | 未有 |
 | 75   | 倒计时按钮       | DoraCountDownButton      | C        | 未有 |
-| 76   | 视频弹幕显示控件     | DoraBarrageView          | C        | 未有 |
+| 76   | 视频弹幕显示控件     | DoraDanmakuView          | C        | 未有 |
 | 77   | 手写签名控件     | DoraSignaturePad         | C        | 未有 |
 | 78   | 全屏引导页控件   | DoraGuideView            | A        | 未有 |
 | 79   | 手势放大镜控件   | DoraMagnifierView        | C        | 未有 |
