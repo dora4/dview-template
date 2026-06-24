@@ -219,7 +219,7 @@ dora.widget
 | 58   | 表格控件       | DoraTableView      | A        | 已有 |
 | 59   | 网格控件       | DoraGridView      | C        | 已有 |
 | 60   | Drawable工具       | DoraDrawables      | A        | 已有 |
-| 61   | 锁屏图案       | DoraPatternView      | B        | 未有 |
+| 61   | 锁屏图案       | DoraPatternView      | B        | 已有 |
 | 62   | 视差动画引导页       | DoraParallaxLayout      | B        | 已有 |
 | 63   | 瀑布流图片加载       | DoraWaterFallLayout      | B        | 未有 |
 | 64   | 输入面板（表情、礼物等）       | DoraInputPanel      | C        | 未有 |
