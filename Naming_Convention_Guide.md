@@ -232,7 +232,7 @@ dora.widget
 | 71   | 日期选择器       | DoraDatePicker           | B        | 未有 |
 | 72   | 实时模糊遮罩     | DoraBlurView             | A        | 未有 |
 | 73   | 长截图滚动控件   | DoraLongScreenshotLayout | C        | 未有 |
-| 74   | 语音声波波纹按钮     | DoraVoiceRippleButton    | C        | 未有 |
+| 74   | 声波波纹控件     | DoraAudioWaveView    | C        | 未有 |
 | 75   | 倒计时按钮       | DoraCountDownButton      | C        | 未有 |
 | 76   | 视频弹幕显示控件     | DoraDanmakuView          | C        | 未有 |
 | 77   | 手写签名控件     | DoraSignaturePad         | C        | 未有 |
