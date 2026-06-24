@@ -251,7 +251,7 @@ dora.widget
 | 90   | 翻扑克牌控件         | DoraPokerView             | C        | 已有 |
 | 91   | 弹出菜单         | DoraPopupWindow             | B        | 已有 |
 | 92   | 宠物控件         | DoraPetView             | C        | 未有 |
-| 93   | 未知控件         | DoraTemplate             | C        | 未有 |
+| 93   | 晋级图控件         | DoraBracketView             | C        | 未有 |
 | 94   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 95   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 96   | 未知控件         | DoraTemplate             | C        | 未有 |
