@@ -211,7 +211,7 @@ dora.widget
 | 50   | 步骤进度条控件	       | DoraStepProgressView      | B        | 未有 |
 | 51   | 搜索历史记录控件       | DoraSearchHistoryView      | B        | 未有 |
 | 52   | 骨架屏加载控件       | DoraSkeletonView      | S        | 已有 |
-| 53   | 验证码发送按钮       | DoraVerifyCodeButton      | A        | 未有 |
+| 53   | 验证码发送按钮       | DoraVerificationButton      | A        | 未有 |
 | 54   | 横幅指示器控件       | DoraIndicatorView      | B        | 已有 |
 | 55   | 趋势控件       | DoraTradingView      | C        | 未有 |
 | 56   | 红包控件       | DoraRedEnvelopeView      | B        | 未有 |
