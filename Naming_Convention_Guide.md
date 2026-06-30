@@ -227,7 +227,7 @@ dora.widget
 | 66   | 启动页控件（用于倒计时展示广告）       | DoraSplashView      | S        | 已有 |
 | 67   | 列表工具       | DoraListHelper     | A        | 已有 |
 | 68   | 价格档位控件       | DoraPriceLadderView      | C        | 未有 |
-| 69   | 乱序数字键盘控件       | DoraSecurityPayView      | C        | 未有 |
+| 69   | 乱序数字键盘控件       | DoraSecurityPadView      | C        | 未有 |
 | 70   | 选择和展示图片控件       | DoraImageDisplayView      | B        | 未有 |
 | 71   | 日期选择器       | DoraDatePicker           | B        | 未有 |
 | 72   | 实时模糊遮罩     | DoraBlurView             | A        | 未有 |
@@ -235,7 +235,7 @@ dora.widget
 | 74   | 声波波纹控件     | DoraAudioWaveView    | C        | 未有 |
 | 75   | 倒计时按钮       | DoraCountDownButton      | C        | 未有 |
 | 76   | 视频弹幕显示控件     | DoraDanmakuView          | C        | 未有 |
-| 77   | 手写签名控件     | DoraSignaturePad         | C        | 未有 |
+| 77   | 手写签名控件     | DoraSignatureView         | C        | 未有 |
 | 78   | 全屏引导页控件   | DoraGuideView            | A        | 未有 |
 | 79   | 手势放大镜控件   | DoraMagnifierView        | C        | 未有 |
 | 80   | 自动跳框文本框   | DoraNextEditText  | A        | 已有 |
