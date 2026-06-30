@@ -106,6 +106,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 ### 事件
 
 - 单指操作使用`e.getAction()`
+- 多指操作使用`e.getActionMasked()`
 - 复杂事件建议使用 `GestureDetector`
 
 ## 七、资源命名规范
