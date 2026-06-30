@@ -86,7 +86,7 @@ override fun onRestoreInstanceState(state: Parcelable) {
 
 ### 绘制
 
-- 所有绘制逻辑应在 `onDraw(canvas: Canvas)` 内完成
+- 绘制逻辑应在 `onDraw(canvas: Canvas)`或`dispatchDraw(canvas: Canvas)` 内完成，且方法内不要创建大量对象
 - 私有方法统一命名为 `drawXxx()`，如：`drawBackground()`、`drawBorder()`
 
 ### 测量
