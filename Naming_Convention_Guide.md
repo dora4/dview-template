@@ -233,10 +233,10 @@ dora.widget
 | 71   | 日期选择器       | DoraDatePicker           | B        | 未有 |
 | 72   | 实时模糊遮罩     | DoraBlurView             | A        | 未有 |
 | 73   | 长截图滚动控件   | DoraLongScreenshotLayout | C        | 未有 |
-| 74   | 声波波纹控件     | DoraAudioWaveView    | C        | 未有 |
+| 74   | 声波波纹控件     | DoraAudioWaveView    | C        | 已有 |
 | 75   | 倒计时按钮       | DoraCountDownButton      | C        | 未有 |
 | 76   | 视频弹幕显示控件     | DoraDanmakuView          | C        | 未有 |
-| 77   | 手写签名控件     | DoraSignatureView         | C        | 未有 |
+| 77   | 手写签名控件     | DoraSignatureView         | C        | 已有 |
 | 78   | 全屏引导页控件   | DoraGuideView            | A        | 未有 |
 | 79   | 手势放大镜控件   | DoraMagnifierView        | C        | 未有 |
 | 80   | 自动跳框文本框   | DoraNextEditText  | A        | 已有 |
@@ -251,7 +251,7 @@ dora.widget
 | 89   | 检测项控件         | DoraCheckItemView             | C        | 未有 |
 | 90   | 翻扑克牌控件         | DoraPokerView             | C        | 已有 |
 | 91   | 弹出菜单         | DoraPopupWindow             | B        | 已有 |
-| 92   | 宠物控件         | DoraPetView             | C        | 未有 |
+| 92   | 宠物控件         | DoraPetView             | C        | 已有 |
 | 93   | 晋级图控件         | DoraBracketView             | C        | 未有 |
 | 94   | 呼吸灯控件         | DoraBreathingView             | C        | 未有 |
 | 95   | 未知控件         | DoraTemplate             | C        | 未有 |
