@@ -242,7 +242,7 @@ dora.widget
 | 80   | 自动跳框文本框   | DoraNextEditText  | A        | 已有 |
 | 81   | 时间轴控件       | DoraTimelineView         | C        | 未有 |
 | 82   | 雷达扫描加载控件 | DoraRadarView            | C        | 未有 |
-| 83   | 颜色拾取器控件   | DoraColorPickerView      | A        | 未有 |
+| 83   | 颜色拾取器控件   | DoraColorPickerView      | A        | 已有 |
 | 84   | 时间选择轮控件   | DoraWheelView      | B        | 已有 |
 | 85   | 优惠券卡片控件   | DoraCouponView        | B        | 已有 |
 | 86   | 内容折叠展开控件         | DoraExpandableLayout             | B        | 已有 |
