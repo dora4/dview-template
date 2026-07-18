@@ -50,7 +50,7 @@
     : View(context, attrs, defStyleAttr)
 ```
 
-如涉及主题样式，建议增加第四个参数的构造函数：
+如涉及主题样式，推荐增加第四个参数的构造函数：
 
 ```kotlin
 constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int, defStyleRes: Int)
@@ -91,7 +91,7 @@ override fun onRestoreInstanceState(state: Parcelable) {
 
 ### 测量
 
-- 控件需要考虑重写 `onMeasure()`，建议使用 `resolveSize()`
+- 控件需要考虑重写 `onMeasure()`，推荐使用 `resolveSize()`
   
 ```kotlin
 override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
@@ -107,7 +107,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 
 - 单指操作使用`e.getAction()`
 - 多指操作使用`e.getActionMasked()`
-- 复杂事件建议使用 `GestureDetector`
+- 复杂事件推荐使用 `GestureDetector`
 
 ## 七、资源命名规范
 
