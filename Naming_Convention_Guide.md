@@ -254,7 +254,7 @@ dora.widget
 | 92   | 宠物控件         | DoraPetView             | C        | 已有 |
 | 93   | 晋级图控件         | DoraBracketView             | C        | 未有 |
 | 94   | 呼吸灯控件         | DoraBreathingView             | C        | 未有 |
-| 95   | 未知控件         | DoraTemplate             | C        | 未有 |
+| 95   | 日历控件         | DoraCalendarView             | B        | 未有 |
 | 96   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 97   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 98   | 未知控件         | DoraTemplate             | C        | 未有 |
