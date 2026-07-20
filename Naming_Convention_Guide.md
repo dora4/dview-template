@@ -256,7 +256,7 @@ dora.widget
 | 94   | 呼吸灯控件         | DoraBreathingView             | C        | 未有 |
 | 95   | 日历控件         | DoraCalendarView             | B        | 未有 |
 | 96   | 签到控件         | DoraCheckInView             | B        | 未有 |
-| 97   | 未知控件         | DoraTemplate             | C        | 未有 |
+| 97   | 九格抽奖控件         | DoraLuckyDrawView             | C        | 未有 |
 | 98   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 99   | 未知控件         | DoraTemplate             | C        | 未有 |
 | 100  | 未知控件         | DoraTemplate             | C        | 未有 |
