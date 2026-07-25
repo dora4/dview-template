@@ -258,7 +258,7 @@ dora.widget
 | 96   | 签到控件         | DoraCheckInView             | B        | 未有 |
 | 97   | 九格抽奖控件         | DoraLuckyDrawView             | C        | 未有 |
 | 98   | 道具掉落控件         | DoraDropDownView             | C        | 未有 |
-| 99   | 未知控件         | DoraTemplate             | C        | 未有 |
+| 99   | 画廊控件         | DoraGalleryView             | C        | 未有 |
 | 100  | 未知控件         | DoraTemplate             | C        | 未有 |
 
 ## ✅ 命名原则总结
