@@ -56,11 +56,29 @@
 constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int, defStyleRes: Int)
 ```
 
-## 四、API方法规范
+## 四、单位转换规范
+应添加转换方法到控件内部，而不是使用外部方法，如DensityUtils.dp2px()。
+```kotlin
+    private fun dp2px(dpVal: Float): Int {
+        return TypedValue.applyDimension(
+            TypedValue.COMPLEX_UNIT_DIP,
+            dpVal, context.resources.displayMetrics
+        ).toInt()
+    }
+
+    private fun sp2px(context: Context, spVal: Float): Int {
+        return TypedValue.applyDimension(
+            TypedValue.COMPLEX_UNIT_SP,
+            spVal, context.resources.displayMetrics
+        ).toInt()
+    }
+```
+
+## 五、API方法规范
 
 - 若参数有一定范围，必须加相关注解，如`@ColorInt`、`@ColorRes`、`@DrawableRes`。
 
-## 五、状态保存规范
+## 六、状态保存规范
 
 - 若控件有交互状态，必须实现 `onSaveInstanceState()` 与 `onRestoreInstanceState()`：
 
@@ -82,7 +100,7 @@ override fun onRestoreInstanceState(state: Parcelable) {
 }
 ```
 
-## 六、绘制、测量与事件处理
+## 七、绘制、测量与事件处理
 
 ### 绘制
 
@@ -109,7 +127,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 - 多指操作使用`e.getActionMasked()`
 - 复杂事件推荐使用 `GestureDetector`
 
-## 七、资源命名规范
+## 八、资源命名规范
 
 ### 属性：
 
@@ -123,7 +141,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 
 - `dview_btn_confirm`、`dview_icon_left`
 
-## 八、代码注释与文档
+## 九、代码注释与文档
 
 ### KDoc 注释
 
@@ -144,7 +162,7 @@ class DoraRoundedButton : View
   - 自定义属性说明表
   - 截图或GIF示例
 
-## 九、包结构建议
+## 十、包结构建议
 
 ```
 dora.widget
@@ -156,7 +174,7 @@ dora.widget
 ├── extension/         // Kotlin扩展函数
 ```
 
-## 十、控件名录
+## 十一、控件名录
 
 主流等级分为S、A、B、C四个等级，其中S级最为常用，而后依次是A、B和C。
 - S级：通用控件，几乎每个app都可能用到。
