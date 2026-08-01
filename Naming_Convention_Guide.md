@@ -74,11 +74,18 @@ constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int, defStyleR
     }
 ```
 
-## 五、API方法规范
+## 五、画笔创建规范
+
+创建时应带抗锯齿FLAG，而不是创建完成再设置。
+```kotlin
+Paint(Paint.ANTI_ALIAS_FLAG)
+```
+
+## 六、API方法规范
 
 - 若参数有一定范围，必须加相关注解，如`@ColorInt`、`@ColorRes`、`@DrawableRes`。
 
-## 六、状态保存规范
+## 七、状态保存规范
 
 - 若控件有交互状态，必须实现 `onSaveInstanceState()` 与 `onRestoreInstanceState()`：
 
@@ -100,7 +107,7 @@ override fun onRestoreInstanceState(state: Parcelable) {
 }
 ```
 
-## 七、绘制、测量与事件处理
+## 八、绘制、测量与事件处理
 
 ### 绘制
 
@@ -127,7 +134,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 - 多指操作使用`e.getActionMasked()`
 - 复杂事件推荐使用 `GestureDetector`
 
-## 八、资源命名规范
+## 九、资源命名规范
 
 ### 属性：
 
@@ -141,7 +148,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 
 - `dview_btn_confirm`、`dview_icon_left`
 
-## 九、代码注释与文档
+## 十、代码注释与文档
 
 ### KDoc 注释
 
@@ -162,7 +169,7 @@ class DoraRoundedButton : View
   - 自定义属性说明表
   - 截图或GIF示例
 
-## 十、包结构建议
+## 十一、包结构建议
 
 ```
 dora.widget
@@ -174,7 +181,7 @@ dora.widget
 ├── extension/         // Kotlin扩展函数
 ```
 
-## 十一、控件名录
+## 十二、控件名录
 
 主流等级分为S、A、B、C四个等级，其中S级最为常用，而后依次是A、B和C。
 - S级：通用控件，几乎每个app都可能用到。
