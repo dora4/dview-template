@@ -66,7 +66,7 @@ constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int, defStyleR
         ).toInt()
     }
 
-    private fun sp2px(context: Context, spVal: Float): Int {
+    private fun sp2px(spVal: Float): Int {
         return TypedValue.applyDimension(
             TypedValue.COMPLEX_UNIT_SP,
             spVal, context.resources.displayMetrics
