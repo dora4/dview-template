@@ -160,11 +160,8 @@ dora.widget
 
 主流等级分为S、A、B、C四个等级，其中S级最为常用，而后依次是A、B和C。
 - S级：通用控件，几乎每个app都可能用到。
-- 
 - A级：高频控件，很多app都会使用。
-- 
 - B级：常规控件，偶尔有app会使用。
-- 
 - C级：特定细分业务控件，只有极少数app会使用。
 
 | 序号 | 中文名           | 英文名                 | 主流等级 | 备注 |
@@ -172,22 +169,22 @@ dora.widget
 | 1    | 标题栏           | DoraTitleBar           | S        | 已有 |
 | 2    | 菜单面板         | DoraMenuPanel          | S        | 已有 |
 | 3    | 居中吐司         | DoraToast              | A        | 已有 |
-| 4    | 滑块按钮         | DoraToggleButton       | B        | 已有 |
-| 5    | 头像裁剪         | DoraAvatar         | B        | 已有 |
-| 6    | 底部弹窗         | DoraBottomDialog       | A        | 已有 |
+| 4    | 滑块按钮         | DoraToggleButton       | A        | 已有 |
+| 5    | 头像裁剪         | DoraAvatar         | A        | 已有 |
+| 6    | 底部弹窗         | DoraBottomDialog       | S        | 已有 |
 | 7    | 点击清空文本框       | DoraClearEditText      | B        | 已有 |
-| 8    | 动画进度条       | DoraProgressView       | C        | 已有 |
+| 8    | 动画进度条       | DoraProgressView       | B        | 已有 |
 | 9    | 提示弹窗         | DoraAlertDialog        | S        | 已有 |
 | 10   | 加载对话框       | DoraLoadingDialog      | S        | 已有 |
 | 11   | 空态布局         | DoraEmptyLayout        | S        | 已有 |
 | 12   | 下拉刷新         | DoraSwipeLayout        | A        | 已有 |
 | 13   | 回弹效果容器     | DoraFlexibleScrollView | B        | 已有 |
 | 14   | 文件浏览器       | DoraFileBrowser        | C        | 已有 |
-| 15   | 流式布局         | DoraFlowLayout         | B        | 已有 |
+| 15   | 流式布局         | DoraFlowLayout         | A        | 已有 |
 | 16   | 多行单选组       | DoraRadioGroup         | A        | 已有 |
 | 17   | 进度按钮         | DoraProgressButton     | B        | 已有 |
-| 18   | 选项卡           | DoraTabBar             | A        | 已有 |
-| 19   | 圆角按钮         | DoraRoundedButton      | B        | 已有 |
+| 18   | 选项卡           | DoraTabBar             | S        | 已有 |
+| 19   | 圆角按钮         | DoraButton      | A        | 已有 |
 | 20   | 常用颜色支持     | DoraColors             | A        | 已有 |
 | 21   | 换肤支持         | DoraSkins              | A        | 已有 |
 | 22   | 侧滑删除菜单     | DoraSwipeMenu          | A        | 已有 |
@@ -195,50 +192,50 @@ dora.widget
 | 24   | 下拉布局面板     | DoraDropdownLayout     | B        | 已有 |
 | 25   | 字母导航控件     | DoraSideBar         | A        | 已有 |
 | 26   | 站内信红点控件   | DoraBadgeView          | A        | 已有 |
-| 27   | 折线图           | DoraLineChart          | A        | 已有 |
-| 28   | 条形图           | DoraBarChart           | A        | 已有 |
+| 27   | 折线图           | DoraLineChart          | B        | 已有 |
+| 28   | 条形图           | DoraBarChart           | B        | 已有 |
 | 29   | 双指缩放控件     | DoraPinchZoomLayout    | B        | 已有 |
-| 30   | 环形变速进度条   | DoraCircularProgressBar   | B        | 已有 |
-| 31   | 图标文字控件     | DoraIconTextView       | C        | 已有 |
-| 32   | 创建动画基础库   | DoraAnimator           | C        | 已有 |
+| 30   | 环形变速进度条   | DoraCircularProgressBar   | A        | 已有 |
+| 31   | 图标文字控件     | DoraIconTextView       | B        | 已有 |
+| 32   | 创建动画基础库   | DoraAnimator           | B        | 已有 |
 | 33   | 列表条目拖动排序 | DoraDragSortView       | B        | 已有 |
-| 34   | 闪烁炫光控件     | DoraFlashView          | B        | 已有 |
+| 34   | 闪烁炫光控件     | DoraFlashView          | A        | 已有 |
 | 35   | 音乐唱片旋转控件 | DoraRotateView         | C        | 已有 |
 | 36   | 音乐均衡器控件 | DoraEqualizerView | C        | 已有 |
-| 37   | 饼图       | DoraPieChart      | A        | 未有 |
-| 38   | 蜘蛛网图       | DoraSpiderChart      | A        | 未有 |
+| 37   | 饼图       | DoraPieChart      | B        | 未有 |
+| 38   | 蜘蛛网图       | DoraSpiderChart      | B        | 未有 |
 | 39   | 刮刮卡控件       | DoraScratchView      | C        | 未有 |
-| 40   | K线图       | DoraKLineView      | B        | 未有 |
-| 41   | 翻书控件       | DoraBookPager      | A        | 未有 |
+| 40   | K线图       | DoraKLineView      | C        | 未有 |
+| 41   | 翻书控件       | DoraBookPager      | C        | 未有 |
 | 42   | 幸运大转盘       | DoraLuckyWheel      | B        | 未有 |
 | 43   | 悬浮球菜单       | DoraFloatingMenu      | B        | 已有 |
 | 44   | 吸附拉杆控件       | DoraStickySlider      | C        | 未有 |
-| 45   | 跑马灯控件       | DoraMarqueeView      | A        | 未有 |
+| 45   | 验证码按钮       | DoraVerificationButton      | A        | 未有 |
 | 46   | 横幅控件       | DoraBannerView      | A        | 未有 |
-| 47   | 省市区级联选择控件       | DoraCityPicker      | C        | 未有 |
+| 47   | 省市区级联选择控件       | DoraCityPicker      | B        | 未有 |
 | 48   | 底部导航条控件       | DoraBottomBar      | S        | 已有 |
-| 49   | 支付密码输入跳框控件       | DoraNextEditText      | C        | 未有 |
+| 49   | 支付密码输入跳框控件       | DoraNextEditText      | B        | 未有 |
 | 50   | 步骤进度条控件	       | DoraStepProgressView      | B        | 未有 |
-| 51   | 搜索历史记录控件       | DoraSearchHistoryView      | B        | 未有 |
+| 51   | 搜索历史记录控件       | DoraSearchHistoryView      | C        | 未有 |
 | 52   | 骨架屏加载控件       | DoraSkeletonView      | S        | 已有 |
-| 53   | 垃圾桶控件       | DoraTrashView      | A        | 未有 |
-| 54   | 横幅指示器控件       | DoraIndicatorView      | B        | 已有 |
-| 55   | 趋势控件       | DoraTradingView      | C        | 未有 |
-| 56   | 红包控件       | DoraRedEnvelopeView      | B        | 未有 |
+| 53   | 垃圾桶控件       | DoraTrashView      | B        | 未有 |
+| 54   | 横幅指示器控件       | DoraIndicatorView      | A        | 已有 |
+| 55   | 趋势控件       | DoraTradingView      | B        | 未有 |
+| 56   | 红包控件       | DoraRedEnvelopeView      | C        | 未有 |
 | 57   | 数字连击控件       | DoraNumberHitView      | C        | 未有 |
 | 58   | 表格控件       | DoraTableView      | A        | 已有 |
 | 59   | 网格控件       | DoraGridView      | C        | 已有 |
 | 60   | Drawable工具       | DoraDrawables      | A        | 已有 |
-| 61   | 锁屏图案       | DoraPatternView      | B        | 已有 |
+| 61   | 锁屏图案       | DoraPatternView      | A        | 已有 |
 | 62   | 视差动画引导页       | DoraParallaxLayout      | B        | 已有 |
 | 63   | 瀑布流图片加载       | DoraWaterFallLayout      | B        | 未有 |
 | 64   | 输入面板（表情、礼物等）       | DoraInputPanel      | C        | 未有 |
-| 65   | 中奖播报控件       | DoraFlipperView      | B        | 已有 |
-| 66   | 启动页控件（用于倒计时展示广告）       | DoraSplashView      | S        | 已有 |
+| 65   | 通知播报控件       | DoraFlipperView      | A        | 已有 |
+| 66   | 启动页控件（用于倒计时展示广告）       | DoraSplashView      | A        | 已有 |
 | 67   | 列表工具       | DoraListHelper     | A        | 已有 |
 | 68   | 价格档位控件       | DoraPriceLadderView      | C        | 未有 |
 | 69   | 乱序数字键盘控件       | DoraSecurityPadView      | C        | 未有 |
-| 70   | 选择和展示图片控件       | DoraImageDisplayView      | B        | 未有 |
+| 70   | 选择和展示图片控件       | DoraImageDisplayView      | A        | 未有 |
 | 71   | 日期选择器       | DoraDatePicker           | B        | 未有 |
 | 72   | 实时模糊遮罩     | DoraBlurView             | A        | 未有 |
 | 73   | 长截图滚动控件   | DoraLongScreenshotLayout | C        | 未有 |
@@ -248,9 +245,9 @@ dora.widget
 | 77   | 手写签名控件     | DoraSignatureView         | C        | 已有 |
 | 78   | 全屏引导页控件   | DoraGuideView            | A        | 未有 |
 | 79   | 手势放大镜控件   | DoraMagnifierView        | C        | 未有 |
-| 80   | 自动跳框文本框   | DoraNextEditText  | A        | 已有 |
-| 81   | 时间轴控件       | DoraTimelineView         | C        | 未有 |
-| 82   | 雷达扫描加载控件 | DoraRadarView            | C        | 未有 |
+| 80   | 自动跳框文本框   | DoraNextEditText  | B        | 已有 |
+| 81   | 时间轴控件       | DoraTimelineView         | B        | 未有 |
+| 82   | 雷达扫描加载控件 | DoraRadarView            | B        | 未有 |
 | 83   | 颜色拾取器控件   | DoraColorPickerView      | A        | 已有 |
 | 84   | 时间选择轮控件   | DoraWheelView      | B        | 已有 |
 | 85   | 优惠券卡片控件   | DoraCouponView        | B        | 已有 |
@@ -258,16 +255,16 @@ dora.widget
 | 87   | 角落标记控件         | DoraMarkView             | A        | 已有 |
 | 88   | 常用线性图标         | DoraIcons             | A        | 已有 |
 | 89   | 检测项控件         | DoraCheckItemView             | C        | 未有 |
-| 90   | 翻扑克牌控件         | DoraPokerView             | C        | 已有 |
-| 91   | 弹出菜单         | DoraPopupWindow             | B        | 已有 |
+| 90   | 翻扑克牌控件         | DoraPokerView             | B        | 已有 |
+| 91   | 弹出菜单         | DoraPopupWindow             | A        | 已有 |
 | 92   | 宠物控件         | DoraPetView             | C        | 已有 |
 | 93   | 晋级图控件         | DoraBracketView             | C        | 未有 |
-| 94   | 呼吸灯控件         | DoraBreathingView             | C        | 未有 |
-| 95   | 日历控件         | DoraCalendarView             | B        | 未有 |
+| 94   | 呼吸灯控件         | DoraBreathingView             | B        | 未有 |
+| 95   | 日历控件         | DoraCalendarView             | C        | 未有 |
 | 96   | 签到控件         | DoraCheckInView             | B        | 未有 |
-| 97   | 九格抽奖控件         | DoraLuckyDrawView             | C        | 未有 |
-| 98   | 道具掉落控件         | DoraDropDownView             | C        | 未有 |
-| 99   | 画廊控件         | DoraGalleryView             | C        | 未有 |
+| 97   | 九格抽奖控件         | DoraLuckyDrawView             | B        | 未有 |
+| 98   | 道具掉落控件         | DoraDropDownView             | B        | 未有 |
+| 99   | 画廊控件         | DoraGalleryView             | B        | 未有 |
 | 100  | 背包格子控件         | DoraBagView             | C        | 未有 |
 
 ## ✅ 命名原则总结
