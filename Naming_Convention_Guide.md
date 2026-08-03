@@ -279,7 +279,7 @@ dora.widget
 | 86   | 内容折叠展开控件         | DoraExpandableLayout             | B        | 已有 |
 | 87   | 角落标记控件         | DoraMarkView             | A        | 已有 |
 | 88   | 常用线性图标         | DoraIcons             | A        | 已有 |
-| 89   | 检测项控件         | DoraCheckItemView             | C        | 未有 |
+| 89   | 图案进度条         | DoraPatternProgressView             | C        | 未有 |
 | 90   | 翻扑克牌控件         | DoraPokerView             | B        | 已有 |
 | 91   | 弹出菜单         | DoraPopupWindow             | A        | 已有 |
 | 92   | 宠物控件         | DoraPetView             | C        | 已有 |
