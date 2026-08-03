@@ -57,11 +57,11 @@ constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int, defStyleR
 ```
 ## 四、单位使用规范
 
-所有尺寸变量默认为px，如需使用dp和sp，需要额外提供API。方法命名添加后缀InDp或InSp，如setXxxViewWidthInDp、setXxxTextSizeInSp。
+所有尺寸变量默认为px，如需使用dp和sp，需要额外提供API。方法命名添加后缀`InDp`或`InSp`，如`setXxxViewWidthInDp()`、`setXxxTextSizeInSp()`。
 
 ## 五、单位转换规范
 
-应添加转换方法到控件内部，而不是使用外部方法，如DensityUtils.dp2px()。
+应添加转换方法到控件内部，而不是使用外部方法，如`DensityUtils.dp2px()`。
 ```kotlin
     private fun dp2px(dpVal: Float): Int {
         return TypedValue.applyDimension(
