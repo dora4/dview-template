@@ -288,7 +288,7 @@ dora.widget
 | 95   | 日历控件         | DoraCalendarView             | C        | 未有 |
 | 96   | 签到控件         | DoraCheckInView             | B        | 未有 |
 | 97   | 九格抽奖控件         | DoraLuckyDrawView             | B        | 未有 |
-| 98   | 道具掉落控件         | DoraDropDownView             | B        | 未有 |
+| 98   | 道具掉落控件         | DoraDropItemView             | B        | 未有 |
 | 99   | 画廊控件         | DoraGalleryView             | B        | 未有 |
 | 100  | 背包格子控件         | DoraBagView             | C        | 未有 |
 
