@@ -206,7 +206,7 @@ dora.widget
 | 13   | 回弹效果容器     | DoraFlexibleScrollView | B        | 已有 |
 | 14   | 文件浏览器       | DoraFileBrowser        | C        | 已有 |
 | 15   | 流式布局         | DoraFlowLayout         | A        | 已有 |
-| 16   | 多行单选组       | DoraRadioGroup         | A        | 已有 |
+| 16   | 单选按钮组（支持多行）       | DoraRadioGroup         | A        | 已有 |
 | 17   | 进度按钮         | DoraProgressButton     | B        | 已有 |
 | 18   | 选项卡           | DoraTabBar             | S        | 已有 |
 | 19   | 圆角按钮         | DoraButton      | A        | 已有 |
