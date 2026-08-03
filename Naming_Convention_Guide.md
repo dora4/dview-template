@@ -55,8 +55,12 @@
 ```kotlin
 constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int, defStyleRes: Int)
 ```
+## 四、单位使用规范
 
-## 四、单位转换规范
+所有尺寸变量默认为px，如需使用dp和sp，需要额外提供API。方法命名添加后缀InDp或InSp，如setXxxViewWidthInDp、setXxxTextSizeInSp。
+
+## 五、单位转换规范
+
 应添加转换方法到控件内部，而不是使用外部方法，如DensityUtils.dp2px()。
 ```kotlin
     private fun dp2px(dpVal: Float): Int {
@@ -74,18 +78,18 @@ constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int, defStyleR
     }
 ```
 
-## 五、画笔创建规范
+## 六、画笔创建规范
 
 创建时应带抗锯齿FLAG，而不是创建完成再设置。
 ```kotlin
 Paint(Paint.ANTI_ALIAS_FLAG)
 ```
 
-## 六、API方法规范
+## 七、API方法规范
 
 - 若参数有一定范围，必须加相关注解，如`@ColorInt`、`@ColorRes`、`@DrawableRes`。
 
-## 七、状态保存规范
+## 八、状态保存规范
 
 - 若控件有交互状态，必须实现 `onSaveInstanceState()` 与 `onRestoreInstanceState()`：
 
@@ -107,7 +111,7 @@ override fun onRestoreInstanceState(state: Parcelable) {
 }
 ```
 
-## 八、绘制、测量与事件处理
+## 九、绘制、测量与事件处理
 
 ### 绘制
 
@@ -134,7 +138,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 - 多指操作使用`e.getActionMasked()`
 - 复杂事件推荐使用 `GestureDetector`
 
-## 九、资源命名规范
+## 十、资源命名规范
 
 ### 属性：
 
@@ -148,7 +152,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 
 - `dview_btn_confirm`、`dview_icon_left`
 
-## 十、代码注释与文档
+## 十一、代码注释与文档
 
 ### KDoc 注释
 
@@ -169,7 +173,7 @@ class DoraRoundedButton : View
   - 自定义属性说明表
   - 截图或GIF示例
 
-## 十一、包结构建议
+## 十二、包结构建议
 
 ```
 dora.widget
@@ -181,7 +185,7 @@ dora.widget
 ├── extension/         // Kotlin扩展函数
 ```
 
-## 十二、控件名录
+## 十三、控件名录
 
 主流等级分为S、A、B、C四个等级，其中S级最为常用，而后依次是A、B和C。
 - S级：通用控件，几乎每个app都可能用到。
