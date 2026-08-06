@@ -238,8 +238,8 @@ dora.widget
 | 41   | 翻书控件       | DoraBookPager      | C        | 已有 |
 | 42   | 幸运大转盘       | DoraLuckyWheel      | B        | 已有 |
 | 43   | 悬浮球菜单       | DoraFloatingMenu      | B        | 已有 |
-| 44   | 吸附拉杆控件       | DoraStickySlider      | C        | 未有 |
-| 45   | 验证码按钮       | DoraVerificationButton      | A        | 未有 |
+| 44   | 吸附拉杆控件       | DoraStickySlider      | C        | 已有 |
+| 45   | 验证码按钮       | DoraVerificationButton      | A        | 已有 |
 | 46   | 横幅控件       | DoraBannerView      | A        | 已有 |
 | 47   | 省市区级联选择控件       | DoraCityPicker      | B        | 未有 |
 | 48   | 底部导航条控件       | DoraBottomBar      | S        | 已有 |
