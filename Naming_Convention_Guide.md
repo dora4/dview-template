@@ -231,8 +231,8 @@ dora.widget
 | 34   | 闪烁炫光控件     | DoraFlashView          | A        | 已有 |
 | 35   | 音乐唱片旋转控件 | DoraRotateView         | C        | 已有 |
 | 36   | 音乐均衡器控件 | DoraEqualizerView | C        | 已有 |
-| 37   | 饼图       | DoraPieChart      | B        | 未有 |
-| 38   | 蜘蛛网图       | DoraSpiderChart      | B        | 未有 |
+| 37   | 饼图       | DoraPieChart      | B        | 已有 |
+| 38   | 蜘蛛网图       | DoraSpiderChart      | B        | 已有 |
 | 39   | 刮刮卡控件       | DoraScratchView      | C        | 已有 |
 | 40   | K线图       | DoraKLineView      | C        | 未有 |
 | 41   | 翻书控件       | DoraBookPager      | C        | 已有 |
