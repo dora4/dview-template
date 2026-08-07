@@ -16,6 +16,17 @@ dependencies {
 }
 ```
 
+#### 控件使用
+
+```xml
+
+```
+
+```kotlin
+
+```
+
+Tips：
 - 修改settings.gradle的rootProject.name
 - 修改lib模块的build.gradle的namespace
 - 修改README.md文件的库名，并删除此步骤提示
