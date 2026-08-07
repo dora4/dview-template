@@ -234,7 +234,7 @@ dora.widget
 | 37   | 饼图       | DoraPieChart      | B        | 已有 |
 | 38   | 蜘蛛网图       | DoraSpiderChart      | B        | 已有 |
 | 39   | 刮刮卡控件       | DoraScratchView      | C        | 已有 |
-| 40   | K线图       | DoraKLineView      | C        | 未有 |
+| 40   | K线图       | DoraKLineView      | C        | 已有 |
 | 41   | 翻书控件       | DoraBookPager      | C        | 已有 |
 | 42   | 幸运大转盘       | DoraLuckyWheel      | B        | 已有 |
 | 43   | 悬浮球菜单       | DoraFloatingMenu      | B        | 已有 |
