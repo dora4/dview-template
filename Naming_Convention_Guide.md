@@ -287,7 +287,7 @@ dora.widget
 | 90   | 翻扑克牌控件         | DoraPokerView             | B        | 已有 |
 | 91   | 弹出菜单         | DoraPopupWindow             | A        | 已有 |
 | 92   | 宠物控件         | DoraPetView             | C        | 已有 |
-| 93   | 晋级图控件         | DoraBracketView             | C        | 未有 |
+| 93   | 晋级图控件         | DoraBracketView             | C        | 已有 |
 | 94   | 呼吸灯控件         | DoraBreathingView             | B        | 已有 |
 | 95   | 日历控件         | DoraCalendarView             | C        | 已有 |
 | 96   | 签到控件         | DoraCheckInView             | B        | 已有 |
