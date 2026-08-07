@@ -244,7 +244,7 @@ dora.widget
 | 47   | 省市区级联选择控件       | DoraCityPicker      | B        | 未有 |
 | 48   | 底部导航条控件       | DoraBottomBar      | S        | 已有 |
 | 49   | 支付密码输入跳框控件       | DoraNextEditText      | B        | 已有 |
-| 50   | 步骤进度条控件	       | DoraStepProgressView      | B        | 未有 |
+| 50   | 步骤控件	       | DoraStepView      | B        | 已有 |
 | 51   | 搜索历史记录控件       | DoraSearchHistoryView      | C        | 未有 |
 | 52   | 骨架屏加载控件       | DoraSkeletonView      | S        | 已有 |
 | 53   | 垃圾桶控件       | DoraTrashView      | B        | 未有 |
