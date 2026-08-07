@@ -262,7 +262,7 @@ dora.widget
 | 65   | 通知播报控件       | DoraFlipperView      | A        | 已有 |
 | 66   | 启动页控件（用于倒计时展示广告）       | DoraSplashView      | A        | 已有 |
 | 67   | 列表工具       | DoraListHelper     | A        | 已有 |
-| 68   | 价格档位控件       | DoraPriceLadderView      | C        | 未有 |
+| 68   | 价格档位控件       | DoraPriceLadderView      | C        | 已有 |
 | 69   | 乱序数字键盘控件       | DoraSecurityPadView      | C        | 未有 |
 | 70   | 选择和展示图片控件       | DoraImageDisplayView      | A        | 未有 |
 | 71   | 日期选择器       | DoraDatePicker           | B        | 未有 |
