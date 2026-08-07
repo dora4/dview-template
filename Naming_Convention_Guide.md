@@ -294,7 +294,7 @@ dora.widget
 | 97   | 九格抽奖控件         | DoraLuckyDrawView             | B        | 未有 |
 | 98   | 道具掉落控件         | DoraDropView             | B        | 已有 |
 | 99   | 画廊控件         | DoraGalleryView             | B        | 已有 |
-| 100  | 背包格子控件         | DoraBagView             | C        | 未有 |
+| 100  | 背包格子控件         | DoraBagView             | C        | 已有 |
 
 ## ✅ 命名原则总结
 
