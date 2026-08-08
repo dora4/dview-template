@@ -266,7 +266,7 @@ dora.widget
 | 69   | 安全数字键盘（支持乱序）       | DoraSecurityPad      | C        | 已有 |
 | 70   | 选择和展示图片控件       | DoraImagePicker      | B        | 已有 |
 | 71   | 富文本控件       | DoraRichTextView           | B        | 未有 |
-| 72   | 背景虚化控件     | DoraBlurView             | A        | 已有 |
+| 72   | 背景虚化控件     | DoraBlurView             | B        | 已有 |
 | 73   | 截图控件   | DoraScreenshotLayout | C        | 已有 |
 | 74   | 声波波纹控件     | DoraAudioWaveView    | C        | 已有 |
 | 75   | 倒计时控件       | DoraCountDownView      | C        | 已有 |
