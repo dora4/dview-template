@@ -245,7 +245,7 @@ dora.widget
 | 48   | 底部导航条控件       | DoraBottomBar      | S        | 已有 |
 | 49   | 数字输入跳框控件       | DoraNextEditText      | B        | 已有 |
 | 50   | 步骤控件	       | DoraStepView      | B        | 已有 |
-| 51   | 搜索历史记录控件       | DoraSearchHistoryView      | C        | 未有 |
+| 51   | 搜索历史记录控件       | DoraSearchView      | B        | 未有 |
 | 52   | 骨架屏加载控件       | DoraSkeletonView      | S        | 已有 |
 | 53   | 垃圾桶控件       | DoraTrashView      | B        | 已有 |
 | 54   | 横幅指示器控件       | DoraIndicatorView      | A        | 已有 |
