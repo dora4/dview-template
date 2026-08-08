@@ -241,7 +241,7 @@ dora.widget
 | 44   | 吸附拉杆控件       | DoraStickySlider      | C        | 已有 |
 | 45   | 验证码按钮       | DoraVerificationButton      | A        | 已有 |
 | 46   | 横幅控件       | DoraBannerView      | A        | 已有 |
-| 47   | 省市区级联选择控件       | DoraCityPicker      | B        | 未有 |
+| 47   | 文本编辑器控件       | DoraTextEditor      | C        | 未有 |
 | 48   | 底部导航条控件       | DoraBottomBar      | S        | 已有 |
 | 49   | 数字输入跳框控件       | DoraNextEditText      | B        | 已有 |
 | 50   | 步骤控件	       | DoraStepView      | B        | 已有 |
