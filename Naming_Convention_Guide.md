@@ -269,7 +269,7 @@ dora.widget
 | 72   | 实时模糊遮罩     | DoraBlurView             | A        | 未有 |
 | 73   | 长截图滚动控件   | DoraLongScreenshotLayout | C        | 未有 |
 | 74   | 声波波纹控件     | DoraAudioWaveView    | C        | 已有 |
-| 75   | 倒计时按钮       | DoraCountDownButton      | C        | 未有 |
+| 75   | 倒计时控件       | DoraCountDownView      | C        | 已有 |
 | 76   | 视频弹幕显示控件     | DoraDanmakuView          | C        | 未有 |
 | 77   | 手写签名控件     | DoraSignatureView         | C        | 已有 |
 | 78   | 全屏引导页控件   | DoraGuideView            | A        | 未有 |
