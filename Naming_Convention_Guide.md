@@ -272,7 +272,7 @@ dora.widget
 | 75   | 倒计时控件       | DoraCountDownView      | C        | 已有 |
 | 76   | 视频弹幕显示控件     | DoraDanmakuView          | C        | 未有 |
 | 77   | 手写签名控件     | DoraSignatureView         | C        | 已有 |
-| 78   | 全屏引导页控件   | DoraGuideView            | A        | 未有 |
+| 78   | 全屏引导页控件   | DoraGuideView            | A        | 已有 |
 | 79   | 手势放大镜控件   | DoraMagnifierView        | C        | 已有 |
 | 80   | 自动跳框文本框   | DoraNextEditText  | B        | 已有 |
 | 81   | 时间轴控件       | DoraTimelineView         | B        | 已有 |
