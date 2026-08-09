@@ -291,7 +291,7 @@ dora.widget
 | 94   | 呼吸灯控件         | DoraBreathingView             | B        | 已有 |
 | 95   | 日历控件         | DoraCalendarView             | C        | 已有 |
 | 96   | 签到控件         | DoraCheckInView             | B        | 已有 |
-| 97   | 数字滚动控件         | DoraNumberRollView             | B        | 未有 |
+| 97   | 数字滚动控件         | DoraNumberRollView             | B        | 已有 |
 | 98   | 道具掉落控件         | DoraDropView             | B        | 已有 |
 | 99   | 画廊控件         | DoraGalleryView             | B        | 已有 |
 | 100  | 背包格子控件         | DoraBagView             | C        | 已有 |
