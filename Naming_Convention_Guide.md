@@ -241,7 +241,7 @@ dora.widget
 | 44   | 吸附拉杆控件       | DoraStickySlider      | C        | 已有 |
 | 45   | 验证码按钮       | DoraVerificationButton      | A        | 已有 |
 | 46   | 横幅控件       | DoraBannerView      | A        | 已有 |
-| 47   | 文本编辑器控件       | DoraTextEditor      | C        | 未有 |
+| 47   | 文本编辑器控件       | DoraTextEditor      | C        | 已有 |
 | 48   | 底部导航条控件       | DoraBottomBar      | S        | 已有 |
 | 49   | 数字输入跳框控件       | DoraNextEditText      | B        | 已有 |
 | 50   | 步骤控件	       | DoraStepView      | B        | 已有 |
@@ -270,7 +270,7 @@ dora.widget
 | 73   | 截图控件   | DoraScreenshotLayout | C        | 已有 |
 | 74   | 声波波纹控件     | DoraAudioWaveView    | C        | 已有 |
 | 75   | 倒计时控件       | DoraCountDownView      | C        | 已有 |
-| 76   | 视频弹幕显示控件     | DoraDanmakuView          | C        | 未有 |
+| 76   | 视频弹幕显示控件     | DoraDanmakuView          | C        | 已有 |
 | 77   | 手写签名控件     | DoraSignatureView         | C        | 已有 |
 | 78   | 全屏引导页控件   | DoraGuideView            | A        | 已有 |
 | 79   | 手势放大镜控件   | DoraMagnifierView        | C        | 已有 |
