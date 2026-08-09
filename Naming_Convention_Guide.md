@@ -250,7 +250,7 @@ dora.widget
 | 53   | 垃圾桶控件       | DoraTrashView      | B        | 已有 |
 | 54   | 横幅指示器控件       | DoraIndicatorView      | A        | 已有 |
 | 55   | 数字趋势控件       | DoraTrendView      | B        | 已有 |
-| 56   | 红包控件       | DoraRedEnvelopeView      | C        | 未有 |
+| 56   | 红包控件       | DoraRedEnvelopeView      | C        | 已有 |
 | 57   | 数字连击控件       | DoraNumberHitView      | C        | 已有 |
 | 58   | 表格控件       | DoraTableView      | A        | 已有 |
 | 59   | 网格控件       | DoraGridView      | C        | 已有 |
