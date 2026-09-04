@@ -274,7 +274,7 @@ dora.widget
 | 77   | 手写签名控件     | DoraSignatureView         | C        | https://github.com/dora4/dview-signature-view |
 | 78   | 全屏引导页控件   | DoraGuideView            | A        | https://github.com/dora4/dview-guide-view |
 | 79   | 手势放大镜控件   | DoraMagnifierView        | C        | https://github.com/dora4/dview-magnifier-view |
-| 80   | 自动跳框文本框   | DoraNextEditText  | B        |  |
+| 80   | 跑马灯控件   | DoraMarqueeView  | B        | https://github.com/dora4/dview-marquee-view |
 | 81   | 时间轴控件       | DoraTimelineView         | B        | https://github.com/dora4/dview-timeline-view |
 | 82   | 雷达扫描加载控件 | DoraRadarView            | B        | https://github.com/dora4/dview-radar-view |
 | 83   | 颜色拾取器控件   | DoraColorPickerView      | A        | https://github.com/dora4/dview-color-picker |
