@@ -253,7 +253,7 @@ dora.widget
 | 56   | 红包控件       | DoraRedEnvelopeView      | C        | https://github.com/dora4/dview-redenvelope-view |
 | 57   | 数字连击控件       | DoraNumberHitView      | C        | https://github.com/dora4/dview-numberhit-view |
 | 58   | 表格控件       | DoraTableView      | A        | https://github.com/dora4/dview-table-view |
-| 59   | 网格控件       | DoraGridView      | C        | https://github.com/dora4/dview-grid-view |
+| 59   | 网格控件       | DoraGridView      | C        | https://github.com/dora4/dview-gridview |
 | 60   | Drawable工具       | DoraDrawables      | A        | https://github.com/dora4/dview-drawables |
 | 61   | 锁屏图案       | DoraPatternView      | A        | https://github.com/dora4/dview-pattern-view |
 | 62   | 视差动画引导页       | DoraParallaxLayout      | B        | https://github.com/dora4/dview-parallax-layout |
