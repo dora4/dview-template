@@ -227,7 +227,7 @@ dora.widget
 | 30   | 环形变速进度条   | DoraCircularProgressBar   | A        | https://github.com/dora4/dview-progressbar |
 | 31   | 图标文字控件     | DoraIconLabelView       | B        | https://github.com/dora4/dview-iconlabel-view |
 | 32   | 创建动画基础库   | DoraAnimator           | B        | https://github.com/dora4/dview-animator |
-| 33   | 列表条目拖动排序 | DoraDragSortView       | B        | https://github.com/dora4/dora_drag_item  |
+| 33   | 列表条目拖动排序 | DoraDragSortView       | B        | https://github.com/dora4/dview-drag-item  |
 | 34   | 闪烁炫光控件     | DoraFlashView          | A        | https://github.com/dora4/dview-flash-view |
 | 35   | 音乐唱片旋转控件 | DoraRotateView         | C        | https://github.com/dora4/dview-rotate-view |
 | 36   | 音乐均衡器控件 | DoraEqualizerView | C        | https://github.com/dora4/dview-equalizer-view |
